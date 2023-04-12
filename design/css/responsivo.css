@@ -1,0 +1,10 @@
+@media (max-width:375px){
+
+    .area-do-qr{
+        width: 80%;
+        max-width: 90%;
+        background-color: yellow;
+        height: 80%;
+    }
+    
+    }
